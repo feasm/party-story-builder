@@ -28,6 +28,11 @@ class Nano2Tests: XCTestCase {
     func testQueSemprePassa() {
         XCTAssert(true)
     }
+    
+    func testTwoAsserts() {
+        XCTAssert(true)
+        XCTAssert(true)
+    }
 
     func testPerformanceExample() {
         // This is an example of a performance test case.
