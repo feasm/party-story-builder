@@ -26,7 +26,7 @@ class Nano2Tests: XCTestCase {
     }
     
     func testQueSemprePassa() {
-//        XCTAssert(true)
+        XCTAssert(true)
     }
 
     func testPerformanceExample() {
